@@ -1,0 +1,1 @@
+package graphs;/** * An interface for the ADT graph. *  * @author Frank M. Carrano * @version 2.0 */public interface GraphInterface<T> extends BasicGraphInterface<T>,                                            GraphAlgorithmsInterface<T>{} // end GraphInterface
